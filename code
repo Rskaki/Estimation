@@ -53,7 +53,7 @@ palgirls = filter(dfpalestine, dfpalestine$Sexe == "Girls")
 
 ################## Senegal
 
-#Nous avons utilisé toutes les lettres de l'alphabet pour que lors de la compataison des modèles
+#Nous avons utilisé toutes les lettres de l'alphabet pour que lors de la comparaison des modèles
 # il n'y ai pas d'écrasement. Mais les formules restent respéctées.
 
 #######################Ajustement linéaire sur le nuage de points
