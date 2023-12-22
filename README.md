@@ -1,4 +1,4 @@
-# ESTIMATION-STATISTIQUE
+# Estimation Statistique
 Estimation par échantillonage sur un échantillon de taille 30 et de taille 100.
 
 - Construction à la "main" (en détaillant tous les calculs) les intervalles de confiance à
